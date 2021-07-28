@@ -1,6 +1,7 @@
-# getx_demo
+# Counter APP with GetX
 
-A new Flutter project.
+The basic Flutter counter app but using the [GetX](https://pub.dev/packages/get) package.
+note: not using Bindings class.
 
 ## Getting Started
 
